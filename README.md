@@ -1,0 +1,4 @@
+CubeGenerator
+=============
+
+Maven test
